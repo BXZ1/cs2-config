@@ -15,11 +15,11 @@
 
 |️ ⌨️ Key | 💡 Description |
 |:---:| --- |
-| **W / A / S / D** | Movement (Switch to AZERTY in [binds.cfg lines 5–9](https://github.com/BXZ1/cs2-config/blob/master/binds.cfg#L5-L10)) |
+| **W / A / S / D** | Movement (Switch to AZERTY in [binds.cfg lines 5–10](https://github.com/BXZ1/cs2-config/blob/master/binds.cfg#L5-L10)) |
 | **SPACE** | Jump + Duck combo (`+djump`) |
 | **SHIFT** | Walk |
-| **CTRL** | Duck (Switchable with ALT in [binds.cfg line 18](https://github.com/BXZ1/cs2-config/blob/master/binds.cfg#L12-L15)) |
-| **ALT** | Drop the bomb (C4) (Switchable with CTRL in [binds.cfg line 18](https://github.com/BXZ1/cs2-config/blob/master/binds.cfg#L12-L15)) |
+| **CTRL** | Duck (Switchable with ALT in [binds.cfg lines 12-15](https://github.com/BXZ1/cs2-config/blob/master/binds.cfg#L12-L15)) |
+| **ALT** | Drop the bomb (C4) (Switchable with CTRL in [binds.cfg lines 12-15](https://github.com/BXZ1/cs2-config/blob/master/binds.cfg#L12-L15)) |
 | **MOUSE1 / MOUSE2** | Fire / Secondary fire |
 | **Q** | Switch to previously used weapon |
 | **1 / 2 / 3 / 4** | Select Primary / Secondary / Knife / Grenades |
