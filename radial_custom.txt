@@ -1,4 +1,4 @@
-// Edited By Z.A.K : Steamcommunity.com/id/BXZ1 | Github.com/BXZ1/csgo-config
+// Edited By Z.A.K : Steamcommunity.com/id/BXZ1 | Github.com/BXZ1/cs2-config
 
 "settings"
 {
