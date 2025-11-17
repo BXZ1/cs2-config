@@ -17,9 +17,6 @@
 
 ## ⌨️ Keybinds:
 
-<details>
-<summary>Click to expand</summary>
-
 |️ Key | 💡 Description |
 |:---:| --- |
 | **W / A / S / D** | Movement (Switch to AZERTY in [binds.cfg lines 5–10](https://github.com/BXZ1/cs2-config/blob/master/binds.cfg#L5-L10)) |
@@ -72,13 +69,8 @@
 | **NUMPAD 3** | Enable "Buy Anywhere" *(Host-only)* |
 | **NUMPAD .** | Enable "All Talk" *(Host-only — everyone hears everyone)* |
 
-</details>
-
 ## ⚙ Aliases:
 
-<details>
-<summary>Click to expand</summary>
-  
 ### 🔧 Core Utility
 
 | Alias | 💡 Description |
@@ -129,8 +121,6 @@
 | `famas`, `galil`, `m4`, `m4s`, `ak`, `aug`, `sg` | Set **rifle** as default for CTs and Ts |
 | `scout`, `awp`, `g3`, `scar` | Set **sniper** as default for CTs and Ts  |
 
-</details>
-
 ---
 
 <p align="center">
@@ -144,3 +134,4 @@
     <img src="https://i.imgur.com/NsN13SA.png" width="400">
   </a>
 </p>
+
