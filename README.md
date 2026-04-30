@@ -51,14 +51,14 @@
 | **F5 / F6** | Open custom Radio Wheel 1 / 2 |
 | **Z / X / C** | Default radio menus 1 / 2 / 3 |
 | **H / J / K** | Radio chat: Cover Me / Bomb is Going to Blow / Enemy Down |
-| **U / Y** | Team Chat / Global Chat |
+| **U / Y / ENTER** | Team Chat / Global Chat |
 | **V / MOUSE4** | Push-to-talk (Voice chat) |
 | **MOUSE3** | Player ping |
 | **F7** | Toggle mute for all enemy communication (voice + text) |
 | **F8** | Call timeout |
 | **F9** | Say `¯\\_(ツ)_/¯` in chat |
 | **F10** | Say `( > ⩊ < )` in chat |
-| **F11** | Say sleeping ASCII art in chat |
+| **F11** | Say `(っ◔◡◔)っ` in chat |
 | **CAPSLOCK** | Toggle noclip |
 | **HOME** | Disconnect from server |
 | **PAGEUP / NUMPAD +** | Increase voice chat volume by 5% |
@@ -115,7 +115,7 @@
 |:---:| --- |
 | `armor`, `helmet`, `noarmor` | Set default armor for all players |
 | `nosec`, `nopri` | Remove secondary/primary weapons for CTs and Ts |
-| `usp`, `glock`, `dual`, `five`, `p250`, `tec9`, `cz`, `r8`, `deagle` | Set **secondary** pistol as default for CTs and Ts |
+| `dual`, `five`, `p250`, `tec9`, `cz`, `r8`, `deagle` | Set **secondary** pistol as default for CTs and Ts |
 | `nova`, `xm`, `mag7`, `sawedoff`, `negev`, `m2` | Set **heavy weapon** as default for CTs and Ts |
 | `mp5`, `mp7`, `mp9`, `mac10`, `ump`, `p90`, `bizon` | Set **SMG** as default for CTs and Ts |
 | `famas`, `galil`, `m4`, `m4s`, `ak`, `aug`, `sg` | Set **rifle** as default for CTs and Ts |
