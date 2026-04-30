@@ -19,11 +19,11 @@
 
 |️ Key | 💡 Description |
 |:---:| --- |
-| **W / A / S / D** | Movement (Switch to AZERTY in [binds.cfg lines 5–10](https://github.com/BXZ1/cs2-config/blob/master/binds.cfg#L5-L10)) |
+| **W A S D** | Movement *( AZERTY: Z Q S D )* |
 | **SPACE** | Jump + Duck combo (`+djump`) |
 | **SHIFT** | Walk |
-| **CTRL** | Duck (Switchable with ALT in [binds.cfg lines 12-15](https://github.com/BXZ1/cs2-config/blob/master/binds.cfg#L12-L15)) |
-| **ALT** | Drop the bomb (C4) (Switchable with CTRL in [binds.cfg lines 12-15](https://github.com/BXZ1/cs2-config/blob/master/binds.cfg#L12-L15)) |
+| **CTRL** | Duck (Switchable with ALT in [binds.cfg lines 6-8](https://github.com/BXZ1/cs2-config/blob/master/binds.cfg#L6-L8)) |
+| **ALT** | Drop the bomb (C4) (Switchable with CTRL in [binds.cfg lines 6-8](https://github.com/BXZ1/cs2-config/blob/master/binds.cfg#L6-L8)) |
 | **MOUSE1 / MOUSE2** | Fire / Secondary fire |
 | **Q** | Switch to previously used weapon |
 | **1 / 2 / 3 / 4** | Select Primary / Secondary / Knife / Grenades |
@@ -44,19 +44,19 @@
 | **F** | Throwables radial menu (`+quickinv`)<br /><img src="https://i.imgur.com/qQqEESz.png" width="350"> |
 | **T** | Spray graffiti + Inspect weapon (combined) |
 | **TAB** | Show scoreboard |
-| **M** | Open team selection menu |
+| **M** | Open team selection menu *( AZERTY: , comma )* |
 | **ESC** | Cancel / Close menu |
 | **F1** | Toggle radar zoom (`toggleradarscale`) *(also used for voting)* |
 | **F2 / NUMPAD ENTER** | Toggle clutch mode *(mute voice chat for one round, also used for voting)* |
 | **F5 / F6** | Open custom Radio Wheel 1 / 2 |
-| **Z / X / C** | Default radio menus 1 / 2 / 3 |
+| **Z / X / C** | Radio Menu 1 *( AZERTY: W )* / Radio Menu 2 / Radio Menu 3 |
 | **H / J / K** | Radio chat: Cover Me / Bomb is Going to Blow / Enemy Down |
 | **U / Y / ENTER** | Team Chat / Global Chat |
 | **V / MOUSE4** | Push-to-talk (Voice chat) |
 | **MOUSE3** | Player ping |
 | **F7** | Toggle mute for all enemy communication (voice + text) |
 | **F8** | Call timeout |
-| **F9** | Say `¯\\_(ツ)_/¯` in chat |
+| **F9** | Say `¯\_(ツ)_/¯` in chat |
 | **F10** | Say `( > ⩊ < )` in chat |
 | **F11** | Say `(っ◔◡◔)っ` in chat |
 | **CAPSLOCK** | Toggle noclip |
