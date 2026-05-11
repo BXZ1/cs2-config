@@ -2,7 +2,7 @@
   <img src="https://i.imgur.com/roReHY7.jpeg">
 </p>
 
-<h1 align="center">🚀 CS2 Config Installation & Guide</h1>
+## 🚀 Installation Steps:
 
 ### 1. [Download](https://github.com/BXZ1/cs2-config/zipball/master) the config files and extract them to the following locations:
 
@@ -12,8 +12,6 @@
 | `radial_custom.txt` | `Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo` |
 
 ### 2. Launch **Counter-Strike 2** and type `apply` in the console.
-
----
 
 ## ⌨️ Keybinds:
 
